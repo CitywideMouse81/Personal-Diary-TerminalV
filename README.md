@@ -30,6 +30,7 @@ auth.py	Handles registration, login, and password hashing
 diary.py	Core diary functionality: writing, reading, filtering
 users.txt	Stores usernames and bcrypt-hashed passwords
 entries/	Folder containing diary entry files (one per user)
+
 🛠 Getting Started
 
 Install dependencies
